@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url('Images/growtopia-heroBanner.png');
+    background-image: url('growtopia-heroBanner.png');
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
@@ -54,7 +54,7 @@ span { *{
 }
 
 body {
-    background-image: url('images/growtopia-heroBanner.png');
+    background-image: url('growtopia-heroBanner.png');
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
